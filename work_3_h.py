@@ -15,20 +15,10 @@ window.configure(bg=bg_color)
     int: 数値型 ex) 1, 2, 3
     str: 文字列型 ex) "Hello", "World", "0", "123", ""
     bool: 真偽値型 ex) True, False
-    (new!) リスト: 複数のデータをまとめたもの ex) [1, 2, 3], ["Hello", "World"]
+    (new!) リスト: 複数のデータをまとめたもの ex) [1, 2, 3], ["Hello", "World"]    
 
-条件分岐
-    条件によって処理を変える
-    if 条件:
-        条件が真のときの処理
-    elif 条件: (省略可)
-        条件が真のときの処理
-    else: (省略可)
-        それ以外のときの処理
-
-比較演算
-    == != < > <= >=
-
+Paiza 配列 -> https://paiza.jp/works/python3/primer/beginner-python4
+Paiza ランダム選択 -> https://paiza.jp/works/python3/primer/beginner-python1/4005
 """
 
 # 名簿リストの作成。ここに名前を追加していく

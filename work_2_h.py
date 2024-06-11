@@ -31,6 +31,8 @@ window.configure(bg=bg_color)
     条件分岐と合わせて使う
     ( == != < > <= >= )
 
+Paiza -> https://paiza.jp/works/python3/primer/beginner-python2
+
 """
 
 
